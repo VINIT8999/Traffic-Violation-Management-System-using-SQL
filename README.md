@@ -83,7 +83,6 @@ This project is created for:
 ## 👤 Author
 **Vinit Shankar Raparti**
 
----
 
-## ⚠️ Note
-This is a learning-focused project and not a production-ready system.
+
+
